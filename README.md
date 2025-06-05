@@ -73,7 +73,7 @@ This directory contains the Firebase configuration for your Study Companion AI p
 
 ### Step 5: Verify Configuration
 1. **Run the application**:
-   - In your terminal, run: `streamlit run main.py --server.port 5000`
+   - In your terminal, run: `streamlit run main.py --server.port 5000 --server.address 127.0.0.1`
    - Or click the "Run" button in Replit
 
 2. **Check for errors**:
